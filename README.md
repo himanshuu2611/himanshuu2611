@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Himanshu Tiwari
-- 👀 I’m interested in software development,app development and Data science
-- 🌱 I’m currently learning DSA (Java) , Data science algorithms and android development
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 I’m interested in software development,app development and Data science.
+- 🌱 I’m currently learning DSA (Java) , Data science algorithms and android development.
+- 💞️ I’m looking to collaborate on interesting projects that combine data science and software development.
+- 📫 How to reach me  Linkedin: https://www.linkedin.com/in/himanshuu315 , Email : himanshutiwari6371@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
